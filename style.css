@@ -1,0 +1,176 @@
+
+body{
+    background-image: url("img/img1.jpg");
+    position: relative;
+    background-size: 100% 100%;
+
+}
+.container{
+    width: 400px;
+    height: 200px;
+    margin: 0 auto;
+border-radius: 5px;
+    background-image: url("img/img.jpeg");
+    background-repeat: no-repeat;
+    object-fit: cover;
+    background-size: 400px 200px;
+    opacity: 0.7;
+}
+
+.cont_but{
+
+    width: 200px;
+    height: 100px;
+    margin: 0 auto;
+    display: flex;
+
+}
+
+.plus_minus{
+    margin-top: 10px;
+    margin-left: 15px;
+    width: 50px;
+    height: 50px;
+}
+.plus_minus1{
+    margin-top: 10px;
+    margin-left: 15px;
+    width: 50px;
+    height: 50px;
+}
+.plus_span{
+    margin-left: 10px;
+    margin-top: 25px;
+    text-align: center;
+    width: 50px;
+    height: 50px;
+}
+.axs_but{
+    display: flex;
+    justify-content: space-around;
+    width: 400px;
+    height: 50px;
+}
+
+.d-none {
+    display: none;
+}
+
+.myPlay {
+    display: none;
+}
+
+
+.myPause {
+    display: none;
+}
+
+.myStop {
+    display: none;
+}
+
+.quadrupled{
+    width:50px;
+    height: 50px;
+    background-color: green;
+    opacity: 0.8;
+
+
+}
+
+.quadrupled1{
+    width:50px;
+    height: 50px;
+
+    margin-left: 300px;
+    background-color: green;
+    opacity: 0.8;
+
+}
+.quadrupled2{
+    width:50px;
+    height: 50px;
+    background-color: blue;
+    margin-left: 300px;
+    display: none;
+
+}
+.atriboots{
+
+    justify-content: space-between;
+    width: 400px;
+    height: 50px;
+    display: none;
+}
+
+.quadrupled_child{
+    display: none;
+    width:50px;
+    height: 50px;
+    background-color: blue;
+}
+.hider{
+    display: flex;
+}
+
+
+.atr_buuts{
+    display: flex;
+    justify-content: space-between;
+
+}
+
+
+.pictures1{
+    width: 350px;
+    height: 200px;
+    border: 8px solid black;
+    background-image: url("img/img3.jpeg");
+    background-size: 100% 100%;
+    opacity: 0.5;
+    text-shadow: 20px blue;
+    box-shadow: blue ;
+}
+.pictures2{
+    width: 350px;
+    height: 200px;
+    border: 8px solid black;
+    background-image: url("img/Group_5_B.jpg");
+    background-size: 100% 100%;
+    opacity: 0.3;
+    text-shadow: blue;
+    box-shadow: blue ;
+
+
+}
+.atr_buuts1{
+    display: flex;
+    justify-content: space-between;
+
+}
+
+
+.pictures3{
+    width: 350px;
+    height: 200px;
+    border: 8px solid black;
+    background-image: url("img/Group_5_B.jpg");
+    background-size: 100% 100%;
+    opacity: 0.4;
+
+}
+.pictures4{
+    width: 350px;
+    height: 200px;
+    border: 8px solid black;
+    background-image: url("img/img3.jpeg");
+    background-size: 100% 100%;
+    opacity: 0.4;
+
+
+}
+
+.span1{
+    font-size: 45px;
+
+}
